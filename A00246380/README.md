@@ -1,11 +1,11 @@
 **1.**
 # Miniproyecto Sistemas Operativos
 
-**Integrantes:** Cristian Osorio y Marisol Giraldo
+**Integrantes:** Cristian Osorio, Sebastian Garcia y Marisol Giraldo
 
-**Códigos:** A00056436 y A00246380
+**Códigos:** A00056436, A00329796 y A00246380
 
-**Correos:** crisosotre@hotmail.com y marisol.giraldo@correo.icesi.edu.co
+**Correos:** crisosotre@hotmail.com, joan.garcia1@correo.icesi.edu.co y marisol.giraldo@correo.icesi.edu.co
 
 **Curso:** Sistemas Operativos
 
